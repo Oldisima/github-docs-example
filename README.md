@@ -1,3 +1,12 @@
+'''
+correct part
+'''
+
+```
+incorrect part
+```
+
+
 # Writing Good Documentation 
 
 ## Step 1 - Using Codeblocks
@@ -11,6 +20,7 @@ Because it allows others to copy and paste theire code to replicate or research 
 - Not to be confused with qoutation (')
 
 **Example git commands**
+
 ```
 git status 
 git add 
