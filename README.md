@@ -1,6 +1,8 @@
-'''
-correct part
-'''
+**code block**
+
+*block*
+
+*** ice block ***
 
 ```
 incorrect part
