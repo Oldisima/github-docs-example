@@ -1,8 +1,8 @@
-**code block**
+**code** *block*
 
 *block*
 
-*** ice block ***
+***ice block***
 
 ```
 incorrect part
