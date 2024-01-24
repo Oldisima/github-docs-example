@@ -8,6 +8,7 @@
 incorrect part
 ```
 
+Here is a simple footnote[^1]
 
 # Writing Good Documentation 
 
@@ -56,7 +57,10 @@ end
 [Hidden Files Markdown](secret/hidden-garden.md)
 
 ## References
+- [^1]: My reference. 
 - [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github
+
+[Secret window](www.google.com)
 
 _Thank you for reading this mini bio_ `❤️`
